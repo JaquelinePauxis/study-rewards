@@ -1,0 +1,5 @@
+# Bibliotecas necessárias
+# O Tkinter já vem instalado com o Python na maioria dos sistemas.
+# Se estiver no Linux (Ubuntu/Debian), pode ser necessário: sudo apt-get install python3-tk
+
+tkinter
